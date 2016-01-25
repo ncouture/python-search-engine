@@ -1,0 +1,2 @@
+celery  --loglevel INFO --logfile celery.log -A spider.celery.daemon worker -Q retrieve
+celery  --loglevel INFO --logfile celery.log -A spider.celery.daemon worker -Q process
