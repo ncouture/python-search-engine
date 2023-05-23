@@ -7,4 +7,4 @@ celery==3.1.20
 kombu==3.0.33
 lxml==3.5.0
 pytz==2015.7
-requests==2.9.1
+requests==2.31.0
